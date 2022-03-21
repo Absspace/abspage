@@ -1,2 +1,5 @@
 # abspage
-我的在线服务器
+cd github-pages-demo
+    git add .
+    git commit -m "Add simple code"
+    git push
